@@ -11,6 +11,7 @@ collections_config:
     glob:
       - "*.md"
     url: "/[full_slug]/" # mkdocs' default url behavior for nested files
+    icon: docs
 
 
 # The available buttons in the CloudCannon Content Editor
